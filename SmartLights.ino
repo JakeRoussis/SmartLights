@@ -83,7 +83,7 @@ void loop()
             {
                 Serial.println("Active");
                 setColour(255, 255, 255);
-                delay(100);
+                delay(600000);
             }
             else
             {
